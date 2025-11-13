@@ -147,6 +147,4 @@ pip install mtcnn
 pip install tensorflow   
 pip install deepface
 pip install tf-keras
-pip install cmake
-pip install dlib
 ```
