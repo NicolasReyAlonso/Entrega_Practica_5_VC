@@ -15,6 +15,20 @@ Esta práctica implementa dos prototipos que utilizan técnicas de visión por c
 - **Filtros visuales en tiempo real** según emoción detectada
 - **Validación cruzada** (k-fold) para robustez del modelo
 
+#### Dataset Utilizado
+
+### **Face Expression Recognition Dataset**
+
+#### Fuente:
+- **Plataforma**: Kaggle
+- **Creador**: jonathanoheix
+- **Enlace**: [Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
+
+#### Características del Dataset:
+- **Categorías**: 7 emociones diferentes
+- **Resolución**: 48×48 píxeles
+- **Formato de color**: Escala de grises
+
 #### Arquitectura del Modelo:
 ```python
 CNN con:
