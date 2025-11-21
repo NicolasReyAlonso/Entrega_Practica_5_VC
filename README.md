@@ -101,9 +101,9 @@ pip install mediapipe
 ```
 
 ## Uso de IA
-Para el desarrollo de estos ejercicios hemos hecho uso de la herramienta de inteligencia artificial copilot integrada en vs code para preguntar sobre los erroresque nos iban surgiendo
+Para el desarrollo de estos ejercicios hemos hecho uso de la herramienta de inteligencia artificial copilot integrada en vs code para preguntar sobre los errores que nos iban surgiendo
 
-## 👥 Autores
+## Autores
 Wafa Azdad Triki y Nicolás Rey Alonso.
 
 
