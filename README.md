@@ -42,6 +42,9 @@ CNN con:
 - **Feliz**: Aumento de brillo y saturación
 - **Triste**: Tonos azules y enfriamiento de imagen
 - **Enfado**: Tonos rojos e intensificación
+<div>
+<img width=100% height=80% src="model.GIF" alt="Descripción del GIF" style="object-fit: fill;" >
+</div>
 
 
 ### 2. **Prototipo 2: Sistema de Expresiones Faciales con Efectos Visuales**
@@ -62,6 +65,10 @@ CNN con:
 - OpenCV para procesamiento de video
 - Algoritmos de relación de aspecto (EAR/MAR)
 - Sistemas de partículas para efectos
+
+<div>
+<img width=100% height=50% src="mediapipe.GIF" alt="Descripción del GIF" style="object-fit: fill;" >
+</div>
 
 ---
 
